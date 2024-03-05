@@ -484,16 +484,20 @@ ul {
 
 @media (max-width: 767px) {
     .elementor-289 .elementor-element.elementor-element-6c69fc2 img {
-        width: 45px !important;
+        width: 40px !important;
     }
     .elementor-289 .elementor-element.elementor-element-5c2d442 img {
-        width: 40px !important; 
+        width: 35px !important; 
     }
 
     .elementor-289 .elementor-element.elementor-element-0a64d93 img{
-        width: 45px !important;
+        width: 40px !important;
     }
     .elementor-289 .elementor-element.elementor-element-e9a19b0 img {
-        width: 45px !important;
+        width: 40px !important;
     }
+    }
+
+    .elementor-289 .elementor-element.elementor-element-f25bc9e{
+        --gap: 30px 25px !important;
     }
